@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mrdellashoob/mrdellashoob/main/code-banner.png" width="52" height="40" alt="Code Banner"  />
+<img src="https://raw.githubusercontent.com/mrdellashoob/mrdellashoob/main/code-banner.png" style="border-radius:8px;" alt="Code Banner"  />
 
 
 <br clear="both">
