@@ -1,8 +1,5 @@
 <img src="https://raw.githubusercontent.com/mrdellashoob/mrdellashoob/main/code-banner.png" style="'border-radius:8px;'" alt="Code Banner"  />
 
-
-<br clear="both">
-
 <h4 align="left">Hi there 👋<br> My Name is MohammadReza DellAshoob, i'm 20 years old; a Fullstack DevOps & Developer,  Who works as a freelancer (:<br>i'm a big fan of Open-Source Community and Enthusiastic in using GNU/Linux<br>also i'm a tech-lover and every day i enjoy to follow new tech, gadgets, etc news!</h4>
 
 ###
